@@ -1,5 +1,4 @@
 # docker_autobuild
-------------
 ## Summary
 Example about docker automatic build.  
 ## References
